@@ -39,3 +39,7 @@ if __name__ == '__main__':
     greeting_with_string_types()
     greeting_custom_name()
     print("~~~ End of Application ~~~")
+
+
+# When you are comfortable with everything in this file feel free to try your hand at these resources:
+# https://www.hackerrank.com/challenges/whats-your-name/problem

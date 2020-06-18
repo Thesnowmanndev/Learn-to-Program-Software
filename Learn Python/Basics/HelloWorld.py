@@ -26,3 +26,7 @@ def hello_world():
 
 if __name__ == '__main__':
     hello_world()
+
+
+# When you have memorized or think you are comfortable with this file feel free to head over to these resources:
+# https://www.hackerrank.com/challenges/py-hello-world/problem
