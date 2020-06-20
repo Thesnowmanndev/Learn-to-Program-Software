@@ -32,3 +32,7 @@ for i in range(1, a // b):
 # can also contain expressions. 
 # Third, in lines 24 & 25 we have 4 expressions. The first is the literal number 1. The second is "a // b". The third 
 # expression is "range(1, a //b)". And finally the forth is the "i" on line 25. 
+
+# When you are confident you understand this file and the lessons in it feel free to try:
+# https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
+# https://www.hackerrank.com/challenges/python-division/problem
