@@ -1,8 +1,9 @@
-# Welcome to Learn Python created by Kyle Martin | https://github.com/Thesnowmanndev This repository is mainly for my
+# Welcome to Learn Python created by Kyle Martin | https://github.com/Thesnowmanndev | This repository is mainly for my
 # notes while learning how to program in python. Feel free to read over the files in this repository and learn what
 # you can. I will try to leave as detailed notes in a comment form as I can but if you are new to programming dont
 # get in the habit of making 100s of comments. Strive to have clean readable code that doesnt require comments to
 # explain what it does. That will make you a better developer in the long run.
+
 
 # Our first method in this file creates two variables of type string and assigns them to Hello, and Kyle.
 # It then calls a print statement to combine our phrase with our name to complete a message in the terminal.

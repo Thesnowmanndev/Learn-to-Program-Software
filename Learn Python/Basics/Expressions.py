@@ -1,8 +1,9 @@
-# Welcome to Learn Python created by Kyle Martin | https://github.com/Thesnowmanndev This repository is mainly for my
+# Welcome to Learn Python created by Kyle Martin | https://github.com/Thesnowmanndev | This repository is mainly for my
 # notes while learning how to program in python. Feel free to read over the files in this repository and learn what
 # you can. I will try to leave as detailed notes in a comment form as I can but if you are new to programming dont
 # get in the habit of making 100s of comments. Strive to have clean readable code that doesnt require comments to
 # explain what it does. That will make you a better developer in the long run.
+
 
 # Expression: An expression in Python is anything that can be calculated or evaluated to return a value. 
 # Read over the code below:
