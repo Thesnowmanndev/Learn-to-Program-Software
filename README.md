@@ -10,3 +10,5 @@
 5. BasicUserInput.py
 6. Expressions.py
 7. OperatorPrecedence.py
+8. CastingTo.py
+9. ArithmeticOperators.py
