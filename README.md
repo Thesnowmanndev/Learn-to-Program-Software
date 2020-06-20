@@ -9,3 +9,4 @@
 4. StringEscapeChars.py
 5. BasicUserInput.py
 6. Expressions.py
+7. OperatorPrecedence.py
