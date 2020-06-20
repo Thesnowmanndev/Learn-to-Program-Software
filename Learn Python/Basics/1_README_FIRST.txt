@@ -14,3 +14,6 @@ How to run a python file in terminal (cmd) or powershell
 2. type 'python filename.py' and hit enter. Example: python HelloWorld.py
 	- A cool feature is typing in 'python first three characters of file' and hit tab. Example python hel 
 	- You should see it autocompleted to 'python .\HelloWorld.py' simply hit enter and it will run that file
+	
+	
+IMPORTANT: Throughout this directory / repository you will see my files start with a number. That is not good practice as it can cause your applications to run into issues when importing from files at times. The only reason I did this is because every numbered file is a stand alone file or "application" and will not be importing from other files. If I do choose to include files that will import others, such as making an application, I will have a different folder structure for it. For safety stick to naming your Python files following python naming conventions. Such as starting with an underscore, or starting with a word and seperating words with underscores. 
