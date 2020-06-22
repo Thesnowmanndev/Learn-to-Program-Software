@@ -14,3 +14,4 @@
 9. ArithmeticOperators.py
 10. IndexingFromStrings.py
 11. SlicingStrings.py
+12. SliceSteps.py
