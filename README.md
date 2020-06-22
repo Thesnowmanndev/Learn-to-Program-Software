@@ -13,3 +13,4 @@
 8. CastingTo.py
 9. ArithmeticOperators.py
 10. IndexingFromStrings.py
+11. SlicingStrings.py
