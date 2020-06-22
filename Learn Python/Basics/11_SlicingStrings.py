@@ -70,7 +70,7 @@ def doesnt_print():
     
 # The method doesnt_print() wont print to the terminal as you would think it would. That is because we can not slice a name and 
 # print backwards. If we could, that method would print out "L no" in our_string but python does not allow slices to work like 
-# that. 
+# that technically... See file 12 for the correct way to do this.
     
 
 if __name__ == '__main__':
