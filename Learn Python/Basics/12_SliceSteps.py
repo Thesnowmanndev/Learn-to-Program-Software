@@ -4,7 +4,6 @@
 # get in the habit of making 100s of comments. Strive to have clean readable code that doesnt require comments to
 # explain what it does. That will make you a better developer in the long run.
 
-
 # Slicing with Steps | String Manipulation
 # So we have learned how to manipulate a string with slicing. Now we can add an additional colon in our square brackets
 # and an additional number that represents how many "steps" we want to take at a time. An easy way to picture that is 

@@ -8,10 +8,7 @@
 # Python has 5 sequence types built in. They are The string, list, tuple, range, and byte / bytearrays
 # A sequence is an ordered set of items. For example:
 
-greeting = "Hello World!"
 
-# The string above is a sequence. It is an ordered set of items each being the characters in the string. 
-# A list is also a sequence type:
 
 equipment_needed = ["computer", "monitor", "keyboard", "mouse", "cords"]
 
