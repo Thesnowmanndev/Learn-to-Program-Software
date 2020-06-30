@@ -1,4 +1,3 @@
-# !!!!!!!!!! File in work - Commit incase system failure !!!!!!!!!!
 # Welcome to Learn Python created by Kyle Martin | https://github.com/Thesnowmanndev | This repository is mainly for my
 # notes while learning how to program in python. Feel free to read over the files in this repository and learn what
 # you can. I will try to leave as detailed notes in a comment form as I can but if you are new to programming dont
@@ -23,7 +22,18 @@ third_string = "and integrate systems more effectively."
 def combine_three_strings():
     print(first_string + second_string + third_string)
     
+# You can also multiply strings. Operator precedence does apply here.
+def multiply_string():
+    print((first_string  + "\n" ) * 5)
+    
+# You can check to see if the string contains something you desire.  The method below will evaluate to true as the string first_string
+# contains programming
+def contains_programming():
+    print("programming" in first_string) 
+    
 
 if __name__ == '__main__':
     combine_three_strings()
+    multiply_string()
+    contains_programming()
 
