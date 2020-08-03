@@ -15,3 +15,4 @@
 11. SlicingStrings.py
 12. SliceSteps.py
 13. StringOperators.py 
+14. StringFormat.py
