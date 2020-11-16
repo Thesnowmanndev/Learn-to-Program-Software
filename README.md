@@ -1,18 +1,3 @@
-# Learn to Program Software
+# Readme will be updated as I progress further in the repo. For now please refer to that sections .docx file or pdf if available. 
 
-### Order of navigating /Learn Python/Basics/ folder:
-##### Read over the files in this order until you fully understand what the file would result as a application. Feel free to fork and tinker with the code as you see fit. Afterall, the only way you will truly understand a language is if you read and write it. Please do not skip over README_FIRST.txt as it will cover some important topics. At the end of some python files I will link relevant links to questions posted on HackerRank to challenge what you have learned so far. You are not obligated to complete them but I would strongly suggest them.
-1. README_FIRST.txt
-2. HelloWorld.py
-3. SimpleStrings.py
-4. StringEscapeChars.py
-5. BasicUserInput.py
-6. Expressions.py
-7. OperatorPrecedence.py
-8. CastingTo.py
-9. ArithmeticOperators.py
-10. IndexingFromStrings.py
-11. SlicingStrings.py
-12. SliceSteps.py
-13. StringOperators.py 
-14. StringFormat.py
+## Currently working on the Java fundamentals section. Will return to Python once Java is built out. Will be taking Java classes soon in college so I decided to place Python on hold in order to refresh my memory on Java fundamentals and establish a good library to help fellow classmates out that need it.
